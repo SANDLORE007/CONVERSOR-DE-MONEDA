@@ -1,0 +1,14 @@
+# IDE
+/.idea/
+/*.iml
+
+# Compilados
+*.class
+/out/
+/target/
+
+# Secrets / env
+.env
+
+# Logs
+*.log
